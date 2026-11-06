@@ -1,0 +1,96 @@
+{
+  "title": "Documentación de agentes de IA",
+  "language": "es",
+  "chapters": [
+    {
+      "number": 1,
+      "id": "introduccion",
+      "title": "Introducción",
+      "summary": "Qué es un agente, cómo observa su entorno y cómo transforma decisiones en acciones.",
+      "file": "01-introduccion.md",
+      "sourceFile": "Capítulo 1. Introducción.es.md",
+      "sha256": "0fecf17598f1462da83d5abcdae5d8bc45938422f0c1d39b34ea161dca23c311"
+    },
+    {
+      "number": 2,
+      "id": "modelos-de-lenguaje",
+      "title": "Modelos de lenguaje",
+      "summary": "Tokens, arquitectura, entrenamiento y generación: el modelo que sostiene al agente.",
+      "file": "02-modelos-de-lenguaje.md",
+      "sourceFile": "Capítulo 2. Modelos de lenguaje a gran escala.md",
+      "sha256": "5bcad8a7549ab6117efe58ac48938affdedcd27956cf10f2c095fbf6c0c35f99"
+    },
+    {
+      "number": 3,
+      "id": "razonamiento",
+      "title": "Razonamiento",
+      "summary": "Cómo se construyen y utilizan los procesos de razonamiento de los modelos de lenguaje.",
+      "file": "03-razonamiento.md",
+      "sourceFile": "Capítulo 3. Razonamiento con modelos de lenguaje extensos.md",
+      "sha256": "dc254b37e10f26fb1c8bddcaa8517a1b0050b0316907adaecee6bd068738b712"
+    },
+    {
+      "number": 4,
+      "id": "memoria",
+      "title": "Memoria",
+      "summary": "Memoria de trabajo, conversaciones y recuperación de conocimiento entre interacciones.",
+      "file": "04-memoria.md",
+      "sourceFile": "Capítulo 4. Memoria.md",
+      "sha256": "49961f6c82aaf9baaeb31a3dc28f2eecef4c1c5fbe376fe6c433be1e442ca5b6"
+    },
+    {
+      "number": 5,
+      "id": "herramientas-y-protocolos",
+      "title": "Herramientas y protocolos",
+      "summary": "Cómo el agente solicita acciones, utiliza herramientas y se conecta con otros sistemas.",
+      "file": "05-herramientas-y-protocolos.md",
+      "sourceFile": "Capítulo 5. Uso de herramientas, aprendizaje y protocolos.md",
+      "sha256": "4da6d2bcd403d2b235e8cb90fecc2e02cdd27e2c1cf5b9f91205395adc2aa0d0"
+    },
+    {
+      "number": 6,
+      "id": "planificacion-y-reflexion",
+      "title": "Planificación y reflexión",
+      "summary": "Descomponer objetivos, revisar resultados y ajustar el siguiente paso.",
+      "file": "06-planificacion-y-reflexion.md",
+      "sourceFile": "Capítulo 6. Planificación y reflexión.md",
+      "sha256": "807db7a348d4f693ac29e6c5a5520d8dc60cefdea07d75bb2de9811244c5314e"
+    },
+    {
+      "number": 7,
+      "id": "evaluacion",
+      "title": "Evaluación de agentes",
+      "summary": "Medir respuestas, trayectorias y resultados para detectar fallos del sistema.",
+      "file": "07-evaluacion.md",
+      "sourceFile": "Capítulo 7. Evaluación de agentes.md",
+      "sha256": "b537fa63c1924f280eeb56bf64d210f6663d6d12c04dbea8d40276f12ab61fcf"
+    },
+    {
+      "number": 8,
+      "id": "sistemas-multiagente",
+      "title": "Sistemas multiagente",
+      "summary": "Coordinación, comunicación y especialización cuando intervienen varios agentes.",
+      "file": "08-sistemas-multiagente.md",
+      "sourceFile": "Capítulo 8. Sistemas multiagente.md",
+      "sha256": "ae3fdaa00ca380941b5a3e43ea5a81159eb445f849f86c04edc11d0c4bfb52da"
+    },
+    {
+      "number": 9,
+      "id": "comprension-multimodal",
+      "title": "Comprensión multimodal",
+      "summary": "Cómo los agentes trabajan con imágenes, audio y video junto al texto.",
+      "file": "09-comprension-multimodal.md",
+      "sourceFile": "Capítulo 9. Comprensión multimodal.md",
+      "sha256": "aeb93be90a578cead96c7b3bd45030442f41e09a737a983ed763755ea2d580d3"
+    },
+    {
+      "number": 10,
+      "id": "agentes-de-codigo",
+      "title": "Agentes de código",
+      "summary": "Modelos y agentes que leen, generan y modifican programas.",
+      "file": "10-agentes-de-codigo.md",
+      "sourceFile": "Capítulo 10. Agentes de código y LLM de código.md",
+      "sha256": "697e7dfb5b4658b649a9cb91b13313532f5f5355b4c34d64df867f3fbfede904"
+    }
+  ]
+}
