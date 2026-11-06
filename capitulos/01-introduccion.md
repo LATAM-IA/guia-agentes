@@ -9,7 +9,7 @@ Este capítulo presenta los conceptos básicos y responde una pregunta: «¿Qué
 Los agentes de IA están en constante evolución, y su definición cambia a medida que aparecen nuevas capacidades y formas de interactuar con el entorno. Aun así, podemos tomar la siguiente definición como punto de partida:
 
 > Un agente es cualquier entidad que pueda considerarse capaz de percibir su entorno mediante sensores y actuar sobre ese entorno mediante actuadores.
-> 
+>
 > Stuart Russell y Peter Norvig, [_Artificial Intelligence: A Modern Approach_, 4.ª edición, capítulo 2, sección 2.1, p. 32](https://aima.cs.berkeley.edu/4th-ed/pdfs/newchap02.pdf#page=1). Traducción al español.
 
 Podemos descomponer esta definición en los siguientes componentes, que constituyen el núcleo de los agentes:
